@@ -9,7 +9,7 @@ The first model is :
 2. [Deepset's Roberta Base Squad2](https://huggingface.co/deepset/roberta-base-squad2) - This model was used to process the data or content sent to the backend server and answer questions regarding the context sent to it.
     
 
-This application runs on `http://localhost:5000`
+This application runs on `http://localhost:5000` and can be executed using the command `flask --app controller  run`. Make sure the backend is running before using the client side.
 
 ### Repositories :
 

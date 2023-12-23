@@ -30,4 +30,4 @@ The main functionalities of the backend server are the :
 
 ### Future Improvements
 
-With more time in hand, I would like to create a custom model and train that model with different business reports and other types of document so that it can create better summaries. Same for the question answering model, currently the models only give compact answers, with a custom model, the answer could be well-structured and prescise.
+With more time in hand, I would like to create a custom model and train that model with different business reports and other types of document so that it can create better summaries. Same for the question answering model, currently the models only give compact answers, with a custom model, the answer could be well-structured and precise.

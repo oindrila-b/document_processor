@@ -1,4 +1,4 @@
-# Documento [Client Side]
+# Documento 
 
 ## What is Documento?
 
